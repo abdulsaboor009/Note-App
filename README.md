@@ -24,4 +24,6 @@ lib
 │   └── widgets
 ├── utils
 ├── controllers
-└── models
+├── models
+├── bindings
+└── data
